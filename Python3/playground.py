@@ -1,7 +1,5 @@
-import math
-print(9 % 10)
-print(33 % 10)
+y = 'law'
+x = 'wal'
+e = ''
 
-sum = 43
-
-print(int(43/10))
+print(e[0])
